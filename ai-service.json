@@ -1,0 +1,13 @@
+{
+  "name": "GlobalAIEnterprise",
+  "type": "public-data-risk-intelligence",
+  "description": "Continuously running engine that monitors public data reliability and systemic risk. Provides free summaries and licensed full-risk intelligence.",
+  "cadence": "daily",
+  "access": {
+    "free": "Public risk summaries",
+    "paid": "Full risk intelligence via license"
+  },
+  "license_url": "https://jathangkip.gumroad.com/l/rkrqbg",
+  "contact": "none",
+  "automation_ready": true
+}

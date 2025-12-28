@@ -1,0 +1,19 @@
+{
+  "service": "GlobalAIEnterprise",
+  "capabilities": [
+    {
+      "name": "public_risk_summary",
+      "access": "free",
+      "description": "High-level daily summaries of detected public-data reliability and systemic risk signals."
+    },
+    {
+      "name": "full_risk_intelligence",
+      "access": "licensed",
+      "description": "Detailed risk vectors, escalation velocity, and signal breakdowns. Requires valid license."
+    }
+  ],
+  "licensing": {
+    "provider": "Gumroad",
+    "product_url": "https://jathangkip.gumroad.com/l/rkrqbg"
+  }
+}

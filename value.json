@@ -1,0 +1,9 @@
+{
+  "service": "GlobalAIEnterprise",
+  "value_differentiation": {
+    "free_output": "Generalized risk summaries without attribution or escalation metrics.",
+    "licensed_output": "Actionable risk intelligence including source attribution, escalation velocity, and severity classification."
+  },
+  "purchase_trigger": "Licensed access required for decision-grade intelligence.",
+  "license_url": "https://jathangkip.gumroad.com/l/rkrqbg"
+}
